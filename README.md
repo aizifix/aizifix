@@ -1,4 +1,7 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcartoons-facebook-covers-for-timeline--494551602806742632%2F&psig=AOvVaw31uSBqaSvhSR3r3AMVA9Ri&ust=1707225098153000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCW9JqjlIQDFQAAAAAdAAAAABAp">
+<p align="center">
+  <img src="https://example.com/path/to/image.png](https://i.imgur.com/a7s4g5B.jpeg" width="350" title="Profile Image">
+</p>
+
 
 - 👋 Hi, I’m @aizifix
 - 👀 I’m interested in ...
